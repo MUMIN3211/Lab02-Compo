@@ -32,6 +32,18 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 1234567,
+      "category": "community",
+      "title": "Neighborhood Block Party",
+      "description": "Celebrate our community with food, games, and fun!",
+      "location": "Main Street",
+      "date": "August 15, 2022",
+      "time": "14:00",
+      "petsAllowed": true,
+      "organizer": "Block Party Committee"
     }
+    
   ]
 }
